@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Can smartwatches monitor blood pressure?",
+        "answer": "Yes, some smartwatches like the Omron Heart Guide and ASUS Vivowatch BP can monitor blood pressure, though traditional upper arm monitors are more reliable."
+    },
+    {
+        "question": "Can I know some features of the smart watches?",
+        "answer": "Here are some features-Heart Rate Monitoring,GPS Tracking,Sleep Tracking,Fitness Tracking,Notifications,Music Control,Blood Oxygen Monitoring."
+    },
+    {
+        "question": "How do smartwatches track steps and activities?",
+        "answer": "They use a 3-Axis Accelerometer, and some also include a gyroscope for orientation and an altimeter for elevation."
+    },
+    {
+        "question": "How do smartwatches monitor sleep?",
+        "answer": "They use sensors to track movements and cardiovascular data to determine sleep duration and stages."
+    },
+    {
+        "question": "Can smartwatches record audio?",
+        "answer": "Yes, models like the Apple Watch and Samsung Galaxy Watch have built-in microphones for recording audio, often requiring third-party apps."
+    },
+    {
+        "question": "Which smartwatches have GPS?",
+        "answer": "Garmin Forerunner, Apple Watch, and Fitbit Ionic have built-in GPS, while others rely on connected GPS through a smartphone."
+    },
+    {
+        "question": "Can smartwatches play music?",
+        "answer": "Many can store and play music via Bluetooth headphones. Examples include Garmin Forerunner 245 Music and Fitbit Versa."
+    },
+    {
+        "question": "Which smartwatches are waterproof?",
+        "answer": "Many are water-resistant, and some are waterproof, such as the Garmin Swim and Suunto Spartan Trainer Wrist HR."
+    },
+    {
+        "question": "Can smartwatches be used without a phone?",
+        "answer": "LTE versions of smartwatches like the Apple Watch Series 3+ and Samsung Galaxy Watch can function independently of a phone."
+    },
+    {
+        "question": "Which smartwatches support Google Pay?",
+        "answer": "Many Wear OS devices support Google Pay for contactless payments."
+    },
+    {
+        "question": "Can smartwatches monitor blood oxygen levels?",
+        "answer": "Yes, models like the Apple Watch Series 6 and Garmin Fenix 6 can monitor blood oxygen levels using SpO2 sensors."
+    },
+    {
+        "question": "How do smartwatches measure stress?",
+        "answer": "They use cardiovascular data and proprietary algorithms to estimate stress levels, though accuracy varies."
+    },
+    {
+        "question": "Can smartwatches detect arrhythmia?",
+        "answer": "Some, like the Apple Watch Series 4 and later, can detect irregular heart rhythms and notify users of potential arrhythmias."
+    },
+    {
+        "question": "Which smartwatches have the longest battery life?",
+        "answer": "Models like the Garmin Fenix 6 and Suunto 9 are known for long battery life, lasting several days on a single charge."
+    },
+    {
+        "question": "Can smartwatches be used for navigation?",
+        "answer": "Yes, smartwatches with built-in GPS like the Garmin Fenix series and Apple Watch can be used for navigation."
+    }
+]
